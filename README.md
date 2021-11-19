@@ -1,6 +1,8 @@
 # commbot
 bot that pushes notifications when an artist is open for commissions
 
+push requests welcome
+
 Components:
 
 *Update parser
@@ -17,3 +19,4 @@ Components:
 
 *Website
 **Curate list of currently open comms w/ date opened, add tags indicating comm type
+
